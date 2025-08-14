@@ -1,1 +1,1 @@
-This project is an end-to-end analysis of Tokopedia products, starting from data scraping to dashboard creation.
+This project is an end-to-end analysis of Tokopedia products, starting from data scraping to dashboard creation. lala
