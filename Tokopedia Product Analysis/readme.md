@@ -114,6 +114,6 @@ Berdasarkan kombinasi harga, kepuasan, rating produk, dan reputasi toko, sepatu 
 
 - Spotec Atlas & Unerd Bourka, di rentang Rp300k–400k, memiliki rating 5 dan kepuasan tinggi.
 
-- 910 Nineten Kanzaki 1.0 & Ortuseight Berlin → untuk pembeli yang ingin kualitas lebih premium namun masih di bawah Rp600k.
+- 910 Nineten Kanzaki 1.0 & Ortuseight Berlin, untuk pembeli yang ingin kualitas lebih premium namun masih di bawah Rp600k.
 
 Dengan mempertimbangkan korelasi kuat antara rating produk dan kepuasan (0,98) serta shop rating dan penjualan (0,86), sepatu yang berasal dari toko bereputasi tinggi dengan rating produk ≥ 4,5 lebih layak direkomendasikan.
