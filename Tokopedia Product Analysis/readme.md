@@ -90,7 +90,7 @@ Analisis dilakukan menggunakan SQL untuk pengolahan data awal dan Excel untuk pe
 - korelasi antara total produk terjual dengan rating toko (0.86), yang menunjukkan reputasi toko berpengaruh signifikan terhadap volume penjualan 
 
 ## Dashboard
-![alt text](excel_dashboard-1.png)
+![alt text](excel_dashboard.png)
 
 ## Kesimpulan 
 
