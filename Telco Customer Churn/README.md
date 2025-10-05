@@ -55,7 +55,7 @@ Churn is heavily concentrated within the first 0–9 months of tenure, indicatin
 
 **What is the average number of services subscribed by churned and retained customers ?**
 
-![alt text](imgs\image-7.png)
+![alt text](imgs\imag   e-7.png)
 
 More than 350 churned customers subscribed to 3–4 services, whereas over 1,000 retained customers typically used only 1–2 services. This indicates that higher service adoption does not necessarily lead to stronger customer loyalty and may even increase the likelihood of churn.
 
