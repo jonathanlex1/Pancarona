@@ -51,6 +51,8 @@ Understand audience demographics (age, country, and interest) to identify the mo
 
 - Helps identify top-performing campaigns and ad types (video, carousel, stories).
 
+![alt text](imgs\image.png)
+
 **2. Budget Efficiency Analysis**
 
 - Evaluates campaign spending efficiency using CPC and CPA.
@@ -59,6 +61,8 @@ Understand audience demographics (age, country, and interest) to identify the mo
 
 - Supports reallocation of marketing budgets toward high-performing ads.
 
+![alt text](imgs\image-1.png)
+
 **3. Demographic & Market Insights**
 
 - Shows audience distribution by age, interest, and country.
@@ -66,6 +70,8 @@ Understand audience demographics (age, country, and interest) to identify the mo
 - Reveals which demographic groups and interests yield the highest engagement and impressions.
 
 - Guides targeting strategy for future campaigns.
+
+![alt text](imgs\image-2.png)
 
 ## 💡 Key Insights & Business Recommendations
 
