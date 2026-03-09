@@ -55,7 +55,9 @@ agg_customer as (
 select 
 datetrunc(month, timestamp) as monthly_date,
 sum(case when customer_status = 'Returning Customer' then gross_revenue end) as returning_customer_revenue,
-sum(case when customer_status = 'New Customer' then gross_revenue end) as new_customer_revenue
+round(sum(case when customer_status = 'Returning Customer' then gross_revenue end)/count( distinct case when customer_status = 'Returning Customer' then customer_id end), 2) as AOV_returning_customer,
+sum(case when customer_status = 'New Customer' then gross_revenue end) as new_customer_revenue, 
+round(sum(case when customer_status = 'New Customer' then gross_revenue end) / count(distinct case when customer_status = 'New Customer' then customer_id end),2) as AOV_new_customer
 from customer_status
 group by datetrunc(month, timestamp)
 )
